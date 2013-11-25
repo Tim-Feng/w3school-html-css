@@ -1,0 +1,36 @@
+body {background-color: green;}
+
+	h1 
+	{
+		font-family: arial, verdana, sans-serif;
+	}
+	h2 
+	{
+		font-family: "Times New Roman", serif; font-style: italic;
+	}
+	
+	div.top 
+	{
+		text-align: center;
+		position:relative;
+		outline: orange;
+	}
+	div.box 
+	{
+		width: 50px;
+		border: 1px solid white;	
+		margin: 15px 5px 45px 5px;
+		padding: 20px 10px 40px 10px;
+	}
+	div.content 
+	{
+		text-align: center;
+		height: 100px;
+		width: 500px;
+		border: 1px solid white;
+		background: orange;
+		margin: 15px;
+		outline-style:solid;
+		outline-color:orange;
+		outline-width:5px;
+	}
